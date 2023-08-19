@@ -47,7 +47,7 @@ export default function Quote(randomQuote: Quote) {
         </p>
         <div className="grow mt-24">
           <p
-            className={`texst-5xl text-center max-w-3xl leading-normal ${roboto.className}`}
+            className={`text-5xl text-center max-w-3xl leading-normal ${roboto.className}`}
           >
             {randomQuote.quote}
           </p>
